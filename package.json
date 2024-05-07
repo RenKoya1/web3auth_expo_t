@@ -11,16 +11,20 @@
   },
   "dependencies": {
     "@web3auth/react-native-sdk": "^5.1.0",
+    "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.0",
+    "empty-module": "^0.0.2",
     "expo": "~50.0.17",
     "expo-secure-store": "~12.8.1",
     "expo-status-bar": "~1.11.1",
     "expo-web-browser": "~12.8.2",
     "firebase": "^10.11.1",
+    "process": "^0.11.10",
     "react": "18.2.0",
     "react-native": "0.73.6",
     "react-native-get-random-values": "~1.8.0",
-    "readable-stream": "^4.5.2"
+    "readable-stream": "^4.5.2",
+    "undefined": "expo/metro-config"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
